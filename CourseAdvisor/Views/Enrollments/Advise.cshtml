@@ -1,0 +1,73 @@
+﻿@model IEnumerable<CourseAdvisor.Models.Course>
+
+@{
+    ViewBag.Title = "Advise";
+}
+
+<h2 style="
+  font-size: 3em;
+  font-family: 'IM Fell Great Primer';
+  position: relative;
+  color: #000000;
+  text-align:center;
+
+    ">
+    Course Advising
+</h2>
+
+@if (!this.User.IsInRole("Admin"))
+{
+
+    <p style="text-align:center;">These are the courses that you need to take in order to progress towards graduation.</p>
+    <br/>
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Credits)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Required)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Elective)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GenEd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Level)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Credits)
+            </td>
+            <th>
+                @Html.DisplayFor(modelItem => item.Required)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Elective)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.GenEd)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Level)
+            </th>
+        </tr>
+    }
+
+</table>

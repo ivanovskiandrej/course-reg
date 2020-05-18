@@ -1,0 +1,96 @@
+﻿@model IEnumerable<CourseAdvisor.Models.Course>
+
+@{
+                /**/
+
+                ViewBag.Title = "Index";
+}
+
+
+<h2 style="
+  font-size: 3em;
+  font-family: 'IM Fell Great Primer';
+  position: relative;
+  color: #000000;
+  text-align:center;
+
+    ">
+    Courses
+</h2>
+
+
+@if (this.User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+}
+else
+{
+
+    <p style="text-align:center;">This is a list of all courses that we offer. In order to enroll in a course, click on "Enroll in a course"</p>
+
+    <p>
+        @Html.ActionLink("Enroll in a course", "Create", "Enrollments")
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Credits)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Required)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Elective)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GenEd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Level)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Credits)
+            </td>
+            <th>
+                @Html.DisplayFor(modelItem => item.Required)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Elective)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.GenEd)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Level)
+            </th>
+
+            @if (this.User.IsInRole("Admin"))
+            {
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.CourseId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.CourseId }) |
+                </td>
+            }
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.CourseId }) |
+            </td>
+        </tr>
+    }
+
+</table>

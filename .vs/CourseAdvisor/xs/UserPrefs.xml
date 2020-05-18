@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B23F9AB5-5AD9-41C7-85DD-7B00C3A0834E}|">
+  <MonoDevelop.Ide.ItemProperties.CourseAdvisor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseAdvisor/Startup.cs">
+    <Files>
+      <File FileName="CourseAdvisor/Startup.cs" Line="22" Column="1" />
+      <File FileName="CourseAdvisor/Startup.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseAdvisor" expanded="True">
+            <Node name="CourseAdvisor" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

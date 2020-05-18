@@ -1,0 +1,1209 @@
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll.config
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe.config
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.rsp
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe.config
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.rsp
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.AppContext.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Console.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Compression.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Claims.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.ValueTuple.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe.config
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.rsp
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/EntityFramework.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Owin.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/WebGrease.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.pdb
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/EntityFramework.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csprojAssemblyReference.cache
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CoreCompileInputs.cache
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CopyComplete
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.dll
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.InitialCreate.resources
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.GenerateResource.cache
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRolesMigration.resources
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRenamingMigration.resources
+C:/Users/aleks/Desktop/SE_THIS_IS_V3!!/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorGradeDataTypeMigration.resources
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll.config
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.rsp
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.rsp
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.AppContext.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Console.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Compression.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Claims.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.ValueTuple.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.rsp
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/EntityFramework.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Owin.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/WebGrease.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.pdb
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/EntityFramework.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csprojAssemblyReference.cache
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.InitialCreate.resources
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRolesMigration.resources
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRenamingMigration.resources
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorGradeDataTypeMigration.resources
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.GenerateResource.cache
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CoreCompileInputs.cache
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CopyComplete
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.dll
+C:/Users/aleks/Desktop/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/CourseAdvisor.dll.config
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/CourseAdvisor.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/csc.exe
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/csc.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/csc.rsp
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/csi.exe
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/csi.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/csi.rsp
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.AppContext.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Console.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.IO.Compression.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.IO.Pipes.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Security.Claims.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.ValueTuple.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Xml.XPath.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/vbc.exe
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/vbc.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/vbc.rsp
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/VBCSCompiler.exe
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Antlr3.Runtime.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/EntityFramework.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/EntityFramework.SqlServer.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Newtonsoft.Json.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Owin.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.Helpers.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.Mvc.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.Optimization.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.Razor.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.WebPages.Deployment.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.WebPages.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.WebPages.Razor.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/WebGrease.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.Helpers.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.Mvc.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.Optimization.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.Razor.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.WebPages.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.WebPages.Deployment.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/System.Web.WebPages.Razor.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Newtonsoft.Json.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Antlr3.Runtime.pdb
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/EntityFramework.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/EntityFramework.SqlServer.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/obj/Debug/CourseAdvisor.csprojAssemblyReference.cache
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.InitialCreate.resources
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRolesMigration.resources
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRenamingMigration.resources
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorGradeDataTypeMigration.resources
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.GenerateResource.cache
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CoreCompileInputs.cache
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CopyComplete
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/obj/Debug/CourseAdvisor.dll
+C:/Users/aleks/Desktop/CourseAdvisor - Copy/CourseAdvisor/obj/Debug/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.AppContext.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Console.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Compression.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Claims.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.ValueTuple.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/WebGrease.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csprojAssemblyReference.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.InitialCreate.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRolesMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRenamingMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorGradeDataTypeMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.GenerateResource.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CoreCompileInputs.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CopyComplete
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.12.19 - 22.00 (V5)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll.config
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe.config
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.rsp
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe.config
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.rsp
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.AppContext.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Console.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Compression.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Claims.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.ValueTuple.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe.config
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.rsp
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Owin.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/WebGrease.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.pdb
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csprojAssemblyReference.cache
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.InitialCreate.resources
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRolesMigration.resources
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRenamingMigration.resources
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorGradeDataTypeMigration.resources
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.GenerateResource.cache
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CoreCompileInputs.cache
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CopyComplete
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.dll
+C:/Users/aleks/Desktop/[NOT_BROKEN]SE PROJECT - 11.13.19 - 11.45 (V6)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.AppContext.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Console.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Compression.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Claims.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.ValueTuple.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/WebGrease.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csprojAssemblyReference.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.InitialCreate.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRolesMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRenamingMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorGradeDataTypeMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.GenerateResource.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CoreCompileInputs.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CopyComplete
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.13.19 - 11.45 (V7)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.AppContext.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Console.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Compression.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Claims.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.ValueTuple.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/WebGrease.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csprojAssemblyReference.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.InitialCreate.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRolesMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRenamingMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorGradeDataTypeMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.GenerateResource.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CoreCompileInputs.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CopyComplete
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 15.20 (V8)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.AppContext.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Console.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Compression.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Claims.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.ValueTuple.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.rsp
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Owin.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/WebGrease.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.pdb
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csprojAssemblyReference.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.InitialCreate.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRolesMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRenamingMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorGradeDataTypeMigration.resources
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.GenerateResource.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CoreCompileInputs.cache
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CopyComplete
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.dll
+C:/Users/aleks/Desktop/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.pdb
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll.config
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.pdb
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe.config
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.rsp
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe.config
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.rsp
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.AppContext.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Console.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Compression.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Claims.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.ValueTuple.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe.config
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.rsp
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Owin.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/WebGrease.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.pdb
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csprojAssemblyReference.cache
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.InitialCreate.resources
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRolesMigration.resources
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRenamingMigration.resources
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorGradeDataTypeMigration.resources
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.GenerateResource.cache
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CoreCompileInputs.cache
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CopyComplete
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.dll
+C:/Users/ivano/Desktop/Sprint 3/SE PROJECT - 11.29.19 18.00 (V9)/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll.config
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.pdb
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.rsp
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.rsp
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.AppContext.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Console.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Compression.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Claims.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.ValueTuple.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.rsp
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/EntityFramework.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Owin.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/WebGrease.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.pdb
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/EntityFramework.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csprojAssemblyReference.cache
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.InitialCreate.resources
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRolesMigration.resources
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRenamingMigration.resources
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorGradeDataTypeMigration.resources
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.GenerateResource.cache
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CoreCompileInputs.cache
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CopyComplete
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.dll
+C:/Users/aleks/Desktop/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.pdb
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/CourseAdvisor.pdb
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.exe.config
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csc.rsp
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.exe.config
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/csi.rsp
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.AppContext.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Collections.Immutable.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Console.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Compression.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.IO.Pipes.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Reflection.Metadata.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.AccessControl.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Claims.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.ValueTuple.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.exe.config
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/vbc.rsp
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/roslyn/VBCSCompiler.exe.config
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/EntityFramework.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Web.Infrastructure.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Owin.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/WebGrease.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Helpers.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Mvc.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Optimization.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.Razor.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Deployment.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/System.Web.WebPages.Razor.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Newtonsoft.Json.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Antlr3.Runtime.pdb
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/EntityFramework.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/EntityFramework.SqlServer.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Core.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.Owin.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Host.SystemWeb.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Facebook.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Cookies.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Google.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.Twitter.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.Owin.Security.OAuth.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csprojAssemblyReference.cache
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.InitialCreate.resources
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRolesMigration.resources
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorRenamingMigration.resources
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.Migrations.CourseAdvisorGradeDataTypeMigration.resources
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.GenerateResource.cache
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CoreCompileInputs.cache
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.csproj.CopyComplete
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.dll
+/Users/andrejivanovski/Downloads/SE Sprint 3/CourseAdvisor_AndrejModifiedViews/CourseAdvisor/CourseAdvisor/obj/Debug/CourseAdvisor.pdb

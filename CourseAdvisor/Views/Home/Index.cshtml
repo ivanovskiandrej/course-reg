@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div style="display: flex; justify-content:center;"><img src="http://www.creativewriting-bg.com/assets/AUBG_Logo1.png" /></div>
+
+<div class="jumbotron" style="background-color: white;">
+
+    <h1 style="
+  font-size: 5em;
+  font-family: 'IM Fell Great Primer';
+  position: relative;
+  color: #000000;
+  text-align:center;
+
+    ">
+        COURSE ADVISOR
+    </h1>
+
+
+    <p class="lead" style="text-align:center;">Welcome! Please click on the button below if you would like to see the list of offered courses.</p>
+    <p style="text-align:center;">@Html.ActionLink("See Courses", "Index", "Courses")</p>
+</div>
+
+@*
+    <div>
+        @Html.ActionLink("List of Students", "Index", "Account")<br />
+        @Html.ActionLink("List of Enrollments", "Index", "Enrollments")
+    </div>
+*@
+
